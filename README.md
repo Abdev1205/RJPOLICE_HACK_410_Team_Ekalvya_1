@@ -9,6 +9,12 @@ Welcome to Kavach, an innovative project aimed at revolutionizing police feedbac
 - Frontend Repository: [Kavach Frontend](https://github.com/Abdev1205/kavach-frontend)
 - Backend Repository: [Kavach Backend](https://github.com/Abdev1205/kavach-backend)
 
+## Demo
+[![Watch Demo](https://drive.google.com/file/d/1uSJtkZ2rocXgupyYrknPIUdMM9nOD2yT/view?usp=sharing)](https://drive.google.com/file/d/1uSJtkZ2rocXgupyYrknPIUdMM9nOD2yT/view?usp=sharing)
+
+Click the image above to watch the demo!
+
+
 ## Problem Statement
 
 Traditional policing faces challenges with non-digital feedback methods, limiting transparency and inclusivity. Kavach addresses this by developing a Progressive Web App (PWA) for seamless police feedback.
